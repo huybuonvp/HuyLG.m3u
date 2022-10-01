@@ -169,7 +169,11 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a6ntzwGNrLFWPrOQ5ixSuQ","kid":"oDxv07TOCEqBo0h2p70uaA"}],"type":"temporary"}
+#EXTINF:-1 group-title="Kplus - Bảo Chính+" tvg-id="kkidshd" tvg-logo="http://onetv.click/logo/kkidshd.jpg",K+Kids HD - Nguồn Kplus
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
 
 
 
