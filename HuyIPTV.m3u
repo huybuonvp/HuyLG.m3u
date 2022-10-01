@@ -95,4 +95,25 @@ http://live.tv360.vn/manifest/K-PLUS-PM/master.mpd?hdnts=exp=1664554765~acl=/*~h
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1eOgJnadLS0fBahTsEHY6w","kid":"ffLQfE4cT+uVEbu9AOMpEw"}],"type":"temporary"}
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn TV360
 http://live.tv360.vn/manifest/K_PLUS_PC/master.mpd?hdnts=exp=1664554765~acl=/*~hmac=71154439c7983c06d9fec475136932a09cf38efd415ac2c22be27fb1218b7f45
-
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTM3U 
+#EXTINF:-1 group-title="🤣K+FPT PLAY" tvg-id="kcinehd" tvg-logo="https://vietanhtv.xyz/ic/kcine.png",K+Cine FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/32.m3u8
+#EXTINF:-1 group-title="🤣K+FPT PLAY" tvg-id="klifehd" tvg-logo="https://vietanhtv.xyz/ic/klife.png",K+Life FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/33.m3u8
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🤣K+FPT PLAY" tvg-logo="https://vietanhtv.xyz/ic/ksport1.png", K+Sport1 FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/34.m3u8
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🤣K+FPT PLAY" tvg-logo="https://vietanhtv.xyz/ic/ksport2.png", K+Sport2 FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/35.m3u8
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🤣K+FPT PLAY" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ KIDS FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/36.m3u8
+#EXTINF:-1 group-title="🤩K+MYTV" tvg-id="kcinehd" tvg-logo="https://vietanhtv.xyz/ic/kcine.png",K+Cine FHD
+http://plus.vthanhtivi.pw/thanhan/thanhan/1.m3u8
+#EXTINF:-1 group-title="🤩K+MYTV" tvg-id="klifehd" tvg-logo="https://vietanhtv.xyz/ic/klife.png",K+Life FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/2.m3u8
+#EXTINF:-1 tvg-id="Ksport1hd" group-title="🤩K+MYTV" tvg-logo="https://vietanhtv.xyz/ic/ksport1.png", K+Sport1 FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/3.m3u8
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🤩K+MYTV" tvg-logo="https://vietanhtv.xyz/ic/ksport2.png", K+Sport2 FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/4.m3u8
+#EXTINF:-1 tvg-id="Ksport2hd" group-title="🤩K+MYTV" tvg-logo="https://i.imgur.com/vEztTNK.png", K+ KIDS FHD 
+http://plus.vthanhtivi.pw/thanhan/thanhan/36.m3u8
