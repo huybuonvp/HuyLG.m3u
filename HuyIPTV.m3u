@@ -81,7 +81,7 @@ http://live.tv360.vn/manifest/K-PLUS-1/master.mpd?hdnts=exp=1664554765~acl=/*~hm
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ODBz43/EUMEzPOZs7n/w2Q","kid":"HDS+jXLrRaCeuZ7lMhKgpQ"}],"type":"temporary"}
-#EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD1 - Nguồn TV360
+#EXTINF:-1 group-title="Kplus - Bảo Chính1" tvg-id="kcinehd1" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD1 - Nguồn TV360
 http://live.tv360.vn/manifest/K-PLUS-1/master.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
