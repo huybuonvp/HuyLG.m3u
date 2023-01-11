@@ -1,2 +1,177 @@
-#EXTM3U url-tvg="" tvg-shift=0 m3uautoload=1 #EXTM3U B4TV: Cập nhật phim IPTV và trực tiếp bóng đá theo yêu cầu - http://iptv.bep40.shop #EXTM3U url-tvg=" #EXTINF:0 tvg-id="b4tv"group-title="Vật Chất Tối Của Ngài (Phần 3) - His Dark Materials (Season 3) (2022)" tvg-logo="https://ophim1.cc/_next/image?url=http://img.ophim1.cc/uploads/movies/vat-chat-toi-cua-ngai-phan-3-thumb.jpg&w=384&q=75" catchup="append" catchup-days="2" catchup-source="",Tập 1 #EXTVLCOPT:http-user-agent="B4TV" https://kd.hd-bophim.com/20221215/28438_45e77ecc/index.m3u8 #EXTM3U url-tvg=" #EXTINF:0 tvg-id="b4tv"group-title="Vật Chất Tối Của Ngài (Phần 3) - His Dark Materials (Season 3) (2022)" tvg-logo="https://ophim1.cc/_next/image?url=http://img.ophim1.cc/uploads/movies/vat-chat-toi-cua-ngai-phan-3-thumb.jpg&w=384&q=75" catchup="append" catchup-days="2" catchup-source="",Tập 2 #EXTVLCOPT:http-user-agent="B4TV" https://hd.hdbophim.com/20221221/27610_c7176b14/index.m3u8
-#EXTM3U url-tvg="" tvg-shift=0 m3uautoload=1 #EXTM3U B4TV: Cập nhật phim IPTV và trực tiếp bóng đá theo yêu cầu - http://iptv.bep40.shop #EXTM3U url-tvg=" #EXTINF:0 tvg-id="b4tv"group-title="Hoàn hồn (Phần 2) - Alchemy of Souls (Season 2) (2022)" tvg-logo="https://ophim1.cc/_next/image?url=http://img.ophim1.cc/uploads/movies/hoan-hon-phan-2-thumb.jpg&w=384&q=75" catchup="append" catchup-days="2" catchup-source="",Tập 1 #EXTVLCOPT:http-user-agent="B4TV" https://kd.hd-bophim.com/20221210/28279_5241e6d1/index.m3u8 #EXTM3U url-tvg=" #EXTINF:0 tvg-id="b4tv"group-title="Hoàn hồn (Phần 2) - Alchemy of Souls (Season 2) (2022)" tvg-logo="https://ophim1.cc/_next/image?url=http://img.ophim1.cc/uploads/movies/hoan-hon-phan-2-thumb.jpg&w=384&q=75" catchup="append" catchup-days="2" catchup-source="",Tập 2 #EXTVLCOPT:http-user-agent="B4TV" https://1080.hdphimonline.com/20221211/39469_969b17f5/index.m3u8 #EXTM3U url-tvg=" #EXTINF:0 tvg-id="b4tv"group-title="Hoàn hồn (Phần 2) - Alchemy of Souls (Season 2) (2022)" tvg-logo="https://ophim1.cc/_next/image?url=http://img.ophim1.cc/uploads/movies/hoan-hon-phan-2-thumb.jpg&w=384&q=75" catchup="append" catchup-days="2" catchup-source="",Tập 3 #EXTVLCOPT:http-user-agent="B4TV" https://hd.hdbophim.com/20221217/27498_23ee4235/index.m3u8 #EXTM3U url-tvg=" #EXTINF:0 tvg-id="b4tv"group-title="Hoàn hồn (Phần 2) - Alchemy of Souls (Season 2) (2022)" tvg-logo="https://ophim1.cc/_next/image?url=http://img.ophim1.cc/uploads/movies/hoan-hon-phan-2-thumb.jpg&w=384&q=75" catchup="append" catchup-days="2" catchup-source="",Tập 4 #EXTVLCOPT:http-user-agent="B4TV" https://hd.hdbophim.com/20221219/27557_ecd6822b/index.m3u8
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml
+
+https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1 1
+http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1 2
+http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1 cine
+http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1  life
+
+#FPT UDP
+
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/2.png", VTV2 MyTV RTP
+#http://103.74.103.181:8001/vtv2mytv.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/3.png", VTV3 MyTV RTP
+#http://103.74.103.181:8001/vtv3mytv.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/5.png", VTV5 MyTV RTP
+#http://103.74.103.181:8001/vtv5mytv.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/8.png", VTV Cần Thơ MyTV RTP
+#http://103.74.103.181:8001/vtvctmytv.m3u8
+
+#VTVGo
+
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/2.png", VTV2 VTVGo
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/vtv2@high.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/3.png", VTV3 VTVGo
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/vtv3@high.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/5.png", VTV5 VTVGo
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5/vtv5@high.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/8.png", VTV5 TNB VTVGo
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/8.png", VTV Cần Thơ VTVGo
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
+
+#TV360
+
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/2.png", VTV2 ViettelTV
+https://vagroup.pw/tv360.php?id=3
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/3.png", VTV3 ViettelTV
+https://vagroup.pw/tv360.php?id=4
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/5.png", VTV5 ViettelTV
+https://vagroup.pw/tv360.php?id=110
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/8.png", VTV Cần Thơ ViettelTV
+https://vagroup.pw/tv360.php?id=9
+
+#MyTV
+
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/2.png", VTV2 MyTV
+http://vagroup.pw/mytv.php?id=377
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/3.png", VTV3 MyTV
+http://vagroup.pw/mytv.php?id=211
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/5.png", VTV5 MyTV
+http://vagroup.pw/mytv.php?id=379
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/8.png", VTV Cần Thơ MyTV
+http://vagroup.pw/mytv.php?id=212
+
+#ClipTV
+
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/2.png", VTV2 ClipTV
+http://vagroup.pw/cliptv.php?id=183
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/3.png", VTV3 ClipTV 
+http://vagroup.pw/cliptv.php?id=158
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/5.png", VTV5 ClipTV
+http://vagroup.pw/cliptv.php?id=408
+#EXTINF:-1 group-title="AFF CUP 2022" tvg-logo="http://logo.vagroup.pw/8.png", VTV Cần Thơ ClipTV 
+http://vagroup.pw/cliptv.php?id=155
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/vagroup.png", Vui Lòng Không Copy!
+http://uploads.vativi.pw/video/donate.m3u8
+
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (ClipTV)
+http://103.56.160.133:8081/vagroup/cliptv/ksport1/index.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (ClipTV)
+http://103.56.160.133:8081/vagroup/cliptv/ksport2/index.m3u8
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids (ClipTV)
+http://103.56.160.133:8081/vagroup/cliptv/kkids/index.m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (ClipTV)
+http://103.56.160.133:8081/vagroup/cliptv/kcine/index.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (ClipTV)
+http://103.56.160.133:8081/vagroup/cliptv/klife/index.m3u8
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/vagroup.png", Vui Lng Không Copy!
+#EXTVLCOPT:http-user-agent=VAgroup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vhcGdGVe2C6M6G2F0VYkeg", "kid":"YoZm4FYtRJGxef2Hu+/9Kw" } ], "type":"temporary" }
+https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/i.mpd
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ptRhZyDUzch6nyysCp4umQ", "kid":"TJKVfL8QNvKIbjGAKWWqJg" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/cine/manifest.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ska56wGhgkTbg9muMuP1PQ", "kid":"xtTz/8X9OuSy/xA2dCd35g" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/life/manifest.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XaUqecAm5BpOPcxU9W2ntA", "kid":"1Xmxbd5/OGeAtMi0pXIWAQ" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/sp1/manifest.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VrpY4xpQUsA0LUXy6YHHjQ", "kid":"OrVrSdqvOn6baGtrLPv75Q" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/sp2/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (FPTPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WlMAfyH4NpIDPvCXo3n04A", "kid":"DH1XiH/XN2y8db0rEkF0VQ" } ], "type":"temporary" }
+https://vagroup.pw/fptplay/kids/manifest.mpd
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/251.png", K+ Live 1 HD (MyK+)
+#EXTVLCOPT:http-user-agent=VAgroup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dmp6prmr4QliOzzggkupjQ", "kid":"lyUbdnxAQ3GgzwzyX//fNg" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive1/default/i.mpd
+
+#EXTINF:-1 tvg-id="klive2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/252.png", K+ Live 2 HD (MyK+)
+#EXTVLCOPT:http-user-agent=VAgroup 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dDne6KZ62B+Zto18e/p50g", "kid":"QXSdPAX5TOyqmN8rMVrTCQ" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive2/default/i.mpd
+
+#EXTINF:-1 tvg-id="klive3hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/253.png", K+ Live 3 HD (MyK+)
+#EXTVLCOPT:http-user-agent=VAgroup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jhwqqk/xL0jngyEDMeCguQ", "kid":"jcHanGFdRuGVteyGkVB4hw" } ], "type":"temporary" }
+https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dCs1ytrN/uzRvfl0Yaz4zA", "kid":"4QqVzpZISEGDvsXhooRtPw" },{ "kty":"oct", "k":"GU9f8dwJO1n8Ur45/V3pgw", "kid":"KU6VzpZISEGDvsXhooRtPw" },{ "kty":"oct", "k":"MgaazKixVyW34L2M/vHROg", "kid":"NlLZ/5ZISEGDvsXhooRtPw" },{ "kty":"oct", "k":"Kbs36h4E8OywqwiY0/33EQ", "kid":"Il/ZF+VISEGDvsXhooRtPw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"s9A+QcqZ04MQ7fecUrSTGA", "kid":"Ipy/eQpRRCem2daCMQ45oA" },{ "kty":"oct", "k":"5VYkVxrtpaq4k5HuL0hPBA", "kid":"auC/eQpRRCem2daCMQ45oA" },{ "kty":"oct", "k":"ytqLNS32hAFWGj3GOxCOPg", "kid":"d+QDqgpRRCem2daCMQ45oA" },{ "kty":"oct", "k":"fRwxxM0KtpWaJ0+/+M6Dxw", "kid":"Y/EDwllRRCem2daCMQ45oA" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport2hd/default/i.mpd
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"prucNUNxGm3hdQAGHMqw7Q", "kid":"Tr4bAL56TFGHco++TEQ1cg" },{ "kty":"oct", "k":"1M2C6AlzSj5W7mW7R8Rilg", "kid":"lgIbAL56TFGHco++TEQ1cg" },{ "kty":"oct", "k":"pw9zZEKrY3nN9LzLLf2FbQ", "kid":"owZfMb56TFGHco++TEQ1cg" },{ "kty":"oct", "k":"4lMwq9eICXjvNslub3uAIg", "kid":"jxNfSQ16TFGHco++TEQ1cg" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_cinehd/default/i.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jHc696DIkh7Z1cmAe13Vpg", "kid":"tWAtgIyZQVGQl9c/Q+4AoQ" },{ "kty":"oct", "k":"zTaQ9043UDYqGCILgAVo3w", "kid":"/aQtgIyZQVGQl9c/Q+4AoQ" },{ "kty":"oct", "k":"WJuBDMnIqOgW5GGs2AHiFg", "kid":"CqhxsYyZQVGQl9c/Q+4AoQ" },{ "kty":"oct", "k":"J+8E7AkNBSEo683Tu0jo+w", "kid":"9rVxyduZQVGQl9c/Q+4AoQ" } ], "type":"temporary" }
+https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="http://logo.vagroup.pw/188.png", K+ Kids FHD (MyK+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oQ3I1Lu3pMTZFaWHz580eQ", "kid":"QcDt13AZRV+0iVwr/8K0LQ" },{ "kty":"oct", "k":"xe73YyKpIc/Itrgpgwk3uQ", "kid":"iQTt13AZRV+0iVwr/8K0LQ" },{ "kty":"oct", "k":"eySVcxZnUFB+yHeT+d0Dug", "kid":"lggxCHAZRV+0iVwr/8K0LQ" },{ "kty":"oct", "k":"5J0KDE4DVgY1JaeYXyUSlg", "kid":"ghUxIL8ZRV+0iVwr/8K0LQ" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/i.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/97.png", K+ Sport1 FHD (MyTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dhe9RVZr2Bh6ckFvZqtcGA","kid":"iv8kilm3QYur4JtjV2vz1g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="http://logo.vagroup.pw/98.png", K+ Sport2 FHD (MyTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"81a2lXLmK0gIrBs6SeaYeg","kid":"HJuJPmizR4Wzt3uh0LDn8g"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/95.png", K+ Cine FHD (MyTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2IABt0FDUibL3gYX1PKJ2g", "kid":"eLj0C7/wTCyq0ggEYDMwHg" } ], "type":"temporary" }
+http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="http://logo.vagroup.pw/96.png", K+ Life (MyTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PRhSVy5otGoTMh4z2winfA", "kid":"mzbWz0eVShiutuI5U/VWRw" } ], "type":"temporary" }
+http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
