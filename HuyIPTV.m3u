@@ -248,9 +248,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/discovery/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/fFV6V3n/ASIA-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/discoveryasia/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/XynWD6F/BBC-Earth-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/XynWD6F/BBC-Earth-BEARTV.png" , BBC Earth
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/MjU0MzE2NDV8YmJjZWFydGhfNDAwMC5zdHJlYW18dm5wdHwxNjgxMzc2NTg1fDE0LjE5MS4zMC44Nnw5OWNhN2EzMmIxMzNiZWM4ZDdiMmJkNDBkMDJmYTViNA/hda4/bbcearth_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Lifestyle
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
