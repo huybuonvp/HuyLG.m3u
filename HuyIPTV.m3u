@@ -208,7 +208,7 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:0 tvg-id="outdoorhd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png" , Outdoor Channel
 #EXTVLCOPT:http-user-agent="BearTV"
-https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/MjU0MzE2NDV8ZGlzY292ZXJ5XzQwMDAuc3RyZWFtfHZucHR8MTY4MTM3NjkwMHwxNC4xOTEuMzAuODZ8NzIyYTE5MzMzYTFmOGI2ZmEwNzM3YzUyNDU5OTNlYzY/hda4/discovery_4000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="QUỐC TẾ TỔNG HỢP" tvg-logo="https://i.ibb.co/y4WhpNb/FASHION-TV-BEARTV.png" , Fashion TV
 #EXTVLCOPT:http-user-agent="BearTV"
 https://e4.endpoint.cdn.sctvonline.vn/hls/fashiontv/sd2/index.m3u8|Referer=http://sctvonline.vn/
