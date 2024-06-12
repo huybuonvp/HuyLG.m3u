@@ -1,6 +1,8 @@
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=cleark ey
-#KODIPROP:inputstream.adaptive.license_key={"kty":"oct","kid":"M0RVZneImQCqu8zd7v8RIg","k":"M0RVZneImQCqu8zd7v8RIg"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Firefox/73.0
-https://hbolive.kplus.vn/__token__exp%3D1702700279~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3D9ac61327-3ad4-4b54-968c-9f51953c9f1f~hmac%3D650e2112b6c0adfb1eff6cc1ffb939c55921f853192e56c6e21a77bd271bedd8/bpk-tv/prod_kplus_sport2hd/default/index.mpd?maxrate=3000000
+#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
+https://tth.vn/tv360plus1
+#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
+https://tth.vn/tv360plus2
+#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png",TV360+ 3
+https://tth.vn/tv360plus3
+#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
+https://tth.vn/tv360plus4
